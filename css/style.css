@@ -44,6 +44,10 @@ section ul {
     width: 30%;
 }
 
+section li {
+    text-align: center;
+}
+
 
 /* FOOTER */
 
