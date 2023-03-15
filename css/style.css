@@ -1,0 +1,62 @@
+/* RESET */
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+img {
+    max-width: 100%;
+}
+
+/* HEADER */
+
+header {
+    height: 50px;
+    width: 100%;
+    background-color: #e6e6e6;
+    /* BOOTSTARP */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+/* MAIN */
+
+section h1 {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+section .col {
+    background-image: url(../img/pexels-mark-stebnicki-2252584.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+section ul {
+    font-size: 2.5rem;
+    font-weight: bold;
+    background-color: rgba(1, 1, 1, 0.7);
+    color: white;
+    width: 30%;
+}
+
+
+/* FOOTER */
+
+footer {
+    height: 75px;
+    background-color: #e6e6e6;
+    /* BOOTSTARP */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+footer h2 {
+    color: black;
+    font-size: 1.5rem;
+}
